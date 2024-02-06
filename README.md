@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PuspanjaliPuhan
 - 👀 I’m interested in ...Data science
-- 🌱 I’m currently learning ...Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on ...Google
 - 📫 How to reach me ...
 
 <!---
